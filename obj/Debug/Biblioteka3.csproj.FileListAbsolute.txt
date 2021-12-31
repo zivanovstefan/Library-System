@@ -1,0 +1,20 @@
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\bin\Debug\Biblioteka3.exe.config
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\bin\Debug\Biblioteka3.exe
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\bin\Debug\Biblioteka3.pdb
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.csprojAssemblyReference.cache
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.Form1.resources
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.Properties.Resources.resources
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.csproj.GenerateResource.cache
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.csproj.CoreCompileInputs.cache
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.exe
+C:\Users\Erkic\Desktop\Fakultet\Softversko Inzinjerstvo- Domaci Zadaci\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.pdb
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\bin\Debug\Biblioteka3.exe.config
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\bin\Debug\Biblioteka3.exe
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\bin\Debug\Biblioteka3.pdb
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.csprojAssemblyReference.cache
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.Form1.resources
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.Properties.Resources.resources
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.csproj.GenerateResource.cache
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.csproj.CoreCompileInputs.cache
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.exe
+C:\Users\Zivanov\Desktop\DOMACI SOFTVERSKO\Domaci4\Biblioteka3\obj\Debug\Biblioteka3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Zivanov\Desktop\Library\bin\Debug\Biblioteka3.exe.config
+C:\Users\Zivanov\Desktop\Library\bin\Debug\Biblioteka3.exe
+C:\Users\Zivanov\Desktop\Library\bin\Debug\Biblioteka3.pdb
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Biblioteka3.Form1.resources
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Biblioteka3.Properties.Resources.resources
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Biblioteka3.exe
+C:\Users\Zivanov\Desktop\Library\obj\Debug\Biblioteka3.pdb
